@@ -6,7 +6,7 @@
 /*   By: sel-biyy <sel-biyy@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/08 15:51:51 by sel-biyy          #+#    #+#             */
-/*   Updated: 2022/10/11 02:37:49 by sel-biyy         ###   ########.fr       */
+/*   Updated: 2022/10/16 17:43:30 by sel-biyy         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,11 +28,10 @@ char	*ft_strnstr(const char *haystack, const char *needle, size_t len)
 	}
 	return (NULL);
 }
-/*#include <stdio.h>
-int main()
-{
-   
-    char a[] = "aaabcabcd";
-     char b[] = "aabc";
-    printf("%s",(ft_strnstr(a , b, -1)));
-}*/
+// #include <stdio.h>
+// int main()
+// { 
+//     char a[] = "ss saas saad el biyyadi";
+//      char b[] = "saad";
+//     printf("%s",(ft_strnstr(a , b, 70)));
+// }

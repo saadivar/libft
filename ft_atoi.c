@@ -6,7 +6,7 @@
 /*   By: sel-biyy <sel-biyy@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/09 02:20:12 by sel-biyy          #+#    #+#             */
-/*   Updated: 2022/10/15 01:12:33 by sel-biyy         ###   ########.fr       */
+/*   Updated: 2022/10/16 15:00:20 by sel-biyy         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -42,7 +42,7 @@ int	ft_atoi(const char *str)
 // #include <stdlib.h>
 // int main()
 // {
-//     const char a[] ="2147483646";
+//     const char a[] ="+500";
 //     printf("%d\n%d\n",atoi(a),ft_atoi(a));
 //     return(0);
 // }
